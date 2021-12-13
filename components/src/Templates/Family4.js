@@ -1,11 +1,11 @@
 import './family.css';
 
-import img2 from './img2.svg';
+import logo512 from './logo512.png';
 
 const Family4 = () => {
   return (
     <section className="family-container">
-      <img src={img2} />
+      <img src={logo512} />
       <div>PARCELS</div>
       <span>Lorem ipsum dolor sit amet,consectetur adipiscing elit.Aliquam aliquam diam sit</span>
     </section>

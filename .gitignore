@@ -1,0 +1,9 @@
+# any file
+**.min.css
+# Build results
+bin/
+obj/
+# microsoft.tye
+.tye
+
+docs/Web1280_1.svg

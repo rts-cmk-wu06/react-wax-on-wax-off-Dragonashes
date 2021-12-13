@@ -1,7 +1,7 @@
 import React from "react";
 
-function Headingtwo() {
-  return <h1 style={styles}>Hello</h1>
+function Headingtwo(props) {
+  return <h1 style={styles}>{props.heading}</h1>
 }
 
 const styles = {

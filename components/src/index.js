@@ -26,8 +26,8 @@ ReactDOM.render(
       <br />
       <Family6 />
       <br />
-      <Greeting genre="vagn" heading="testshot" />
-      <Greeting genre="aske" heading="testshot" />
+      <Greeting genre="TRAVEL" heading="Surfing in Maldives" />
+      <Greeting genre="LEISURE" heading="Outdoor experience" />
     </div>
   </React.StrictMode>,
   document.getElementById('root')

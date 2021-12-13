@@ -12,11 +12,6 @@ my-app1
     headingone
     headingtwo
 
-    name
-    genre
-
-    lastname
-    heading
 
 læs op
   https://reactjs.org/docs/conditional-rendering.html

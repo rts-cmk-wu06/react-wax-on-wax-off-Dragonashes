@@ -11,7 +11,7 @@ function Greeting(props) {
     }}>
       {/* <Headingone name={props.name} lastname={props.lastname} /> */}
       <Headingone {...props} />
-      <Headingtwo />
+      <Headingtwo {...props} />
     </div>
   );
 }

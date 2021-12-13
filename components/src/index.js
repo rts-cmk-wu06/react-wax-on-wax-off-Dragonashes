@@ -28,6 +28,7 @@ ReactDOM.render(
       <br />
       <Greeting genre="TRAVEL" heading="Surfing in Maldives" />
       <Greeting genre="LEISURE" heading="Outdoor experience" />
+      <Greeting genre="WORLD" heading="Africa" />
     </div>
   </React.StrictMode>,
   document.getElementById('root')

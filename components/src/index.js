@@ -26,8 +26,8 @@ ReactDOM.render(
       <br />
       <Family6 />
       <br />
-      <Greeting name="vagn" lastname="testshot" />
-      <Greeting name="aske" lastname="testshot" />
+      <Greeting genre="vagn" heading="testshot" />
+      <Greeting genre="aske" heading="testshot" />
     </div>
   </React.StrictMode>,
   document.getElementById('root')

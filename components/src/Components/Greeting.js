@@ -1,5 +1,6 @@
 import Headingone from "./Headingone";
 import Headingtwo from "./Headingtwo";
+import Headingthree from "./Headingthree";
 
 function Greeting(props) {
   console.log(props)
@@ -12,6 +13,7 @@ function Greeting(props) {
       {/* <Headingone name={props.name} lastname={props.lastname} /> */}
       <Headingone {...props} />
       <Headingtwo {...props} />
+      <Headingthree {...props} />
     </div>
   );
 }

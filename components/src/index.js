@@ -10,6 +10,8 @@ import Family5 from './Templates/Family5';
 import Family6 from './Templates/Family6';
 import Greeting from "./Components/Greeting";
 
+import logo from './Components/logo.svg';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
@@ -26,9 +28,10 @@ ReactDOM.render(
       <br />
       <Family6 />
       <br />
-      <Greeting genre="TRAVEL" heading="Surfing in Maldives" />
+      <Greeting genre="TRAVEL" heading="Surfing in Maldives" src={logo} />
       <Greeting genre="LEISURE" heading="Outdoor experience" />
       <Greeting genre="WORLD" heading="Africa" />
+      <Greeting genre="WORLD" heading="Africa" src={logo} />
     </div>
   </React.StrictMode>,
   document.getElementById('root')

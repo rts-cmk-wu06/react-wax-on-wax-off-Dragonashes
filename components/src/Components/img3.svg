@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="13.7987mm"
+   height="16.933411mm"
+   viewBox="0 0 13.7987 16.933411"
+   version="1.1"
+   id="svg1431"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="img3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1433"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.35455254"
+     inkscape:cx="-478.06737"
+     inkscape:cy="407.55596"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Web_1280_1" />
+  <defs
+     id="defs1428">
+    <clipPath
+       id="clip-Web_1280_1">
+      <rect
+         width="1280"
+         height="3177"
+         id="rect1529"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.888326,200.07677)">
+    <g
+       id="Web_1280_1"
+       data-name="Web 1280 – 1"
+       clip-path="url(#clip-Web_1280_1)"
+       transform="matrix(0.26458333,0,0,0.26458333,-172.6252,-334.70195)">
+      <g
+         id="Block_05"
+         transform="translate(-87.76053,-65.589449)">
+        <path
+           id="Path_7"
+           data-name="Path 7"
+           d="m 1012.7741,582.70903 h -8.415 a 3,3 0 0 0 -2.844,-2.37 2.43,2.43 0 0 1 -1.54099,-1.43 l -0.592,-1.537 a 5.1,5.1 0 0 0 -4.386,-2.963 h -3.555 a 5.1,5.1 0 0 0 -4.389,2.963 l -0.589,1.537 a 2.43,2.43 0 0 1 -1.541,1.426 3.265,3.265 0 0 0 -2.844,2.374 h -9.6 a 5.868,5.868 0 0 0 -5.926,5.922 v 43.852 a 5.868,5.868 0 0 0 5.926,5.926 h 40.29999 a 5.868,5.868 0 0 0 5.926,-5.926 v -43.852 a 5.868,5.868 0 0 0 -5.93,-5.922 z m -28.44399,1.181 c 0,-0.711 0.356,-1.185 0.593,-1.185 a 4.731,4.731 0 0 0 3.793,-2.963 l 0.593,-1.541 a 2.552,2.552 0 0 1 2.132,-1.422 h 3.556 a 2.552,2.552 0 0 1 2.133,1.422 l 0.593,1.541 c 0.119,0.237 0.119,0.356 0.237,0.593 h -1.778 a 1.12,1.12 0 0 0 -1.185,1.185 1.12,1.12 0 0 0 1.185,1.189 h 5.33299 c 0.237,0 0.593,0.474 0.593,1.185 v 1.185 a 1.12,1.12 0 0 1 -1.185,1.185 h -15.40799 a 1.12,1.12 0 0 1 -1.185,-1.185 z m 31.99999,48.593 a 3.492,3.492 0 0 1 -3.556,3.556 h -40.29599 a 3.492,3.492 0 0 1 -3.556,-3.556 v -43.852 a 3.492,3.492 0 0 1 3.556,-3.556 h 9.481 a 3.492,3.492 0 0 0 3.556,3.556 h 15.40699 a 3.492,3.492 0 0 0 3.556,-3.556 h 8.3 a 3.492,3.492 0 0 1 3.556,3.556 z"
+           fill="#ffffff" />
+        <path
+           id="Path_8"
+           data-name="Path 8"
+           d="m 990.25611,604.04203 a 1.12,1.12 0 0 0 -1.185,1.185 v 2.37 h -9.482 v -9.485 h 7.111 a 1.185,1.185 0 1 0 0,-2.37 h -8.3 a 1.12,1.12 0 0 0 -1.181,1.185 v 11.852 a 1.12,1.12 0 0 0 1.185,1.185 h 11.852 a 1.12,1.12 0 0 0 1.185,-1.185 v -3.556 a 1.12,1.12 0 0 0 -1.185,-1.181 z"
+           fill="#ffffff" />
+        <path
+           id="Path_9"
+           data-name="Path 9"
+           d="m 992.86311,595.03103 -6.874,7.825 -3.2,-3.2 a 1.146,1.146 0 0 0 -1.659,0 1.289,1.289 0 0 0 0,1.778 l 4.144,4.264 c 0.237,0.237 0.474,0.593 0.83,0.593 v -1.186 c 0.356,0 0.593,0.119 0.83,-0.119 l 7.7,-8.533 a 1.152,1.152 0 0 0 -0.119,-1.659 1.171,1.171 0 0 0 -1.652,0.237 z"
+           fill="#ffffff" />
+        <path
+           id="Path_10"
+           data-name="Path 10"
+           d="m 1006.8521,602.85303 h -7.11499 a 1.185,1.185 0 0 0 0,2.37 h 7.11499 a 1.185,1.185 0 1 0 0,-2.37 z"
+           fill="#ffffff" />
+        <path
+           id="Path_11"
+           data-name="Path 11"
+           d="m 990.25611,615.89003 h -11.852 a 1.12,1.12 0 0 0 -1.185,1.185 v 11.852 a 1.12,1.12 0 0 0 1.185,1.185 h 11.852 a 1.12,1.12 0 0 0 1.185,-1.185 v -11.852 a 1.12,1.12 0 0 0 -1.185,-1.185 z m -1.185,11.852 h -9.482 v -9.482 h 9.481 z"
+           fill="#ffffff" />
+        <path
+           id="Path_12"
+           data-name="Path 12"
+           d="m 1006.8521,621.81603 h -7.11499 a 1.185,1.185 0 0 0 0,2.37 h 7.11499 a 1.185,1.185 0 1 0 0,-2.37 z"
+           fill="#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>
